@@ -4,7 +4,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | LRETTTT
+    | MI A FAZ
     |--------------------------------------------------------------------------
     |
     | Here you may configure the log settings for when a location is not found
